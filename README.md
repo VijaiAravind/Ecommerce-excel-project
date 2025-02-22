@@ -10,4 +10,14 @@ Excel Functions: SUMIF, VLOOKUP, INDEX-MATCH, etc.
 Pivot Tables: For summarizing sales, products, and customer data.
 Charts: Sales trends, top-performing products, and customer segments.
 Customer Segmentation (RFM): Analyzing customer purchasing behavior.
-By completing this projects, I have gained a deeper understanding of how Excel can be used for data cleaning  and analyzing to give insights.
+
+# 1.Coffee Sales Project: 
+  https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/coffeeOrdersData.xlsx
+  Dashboard:https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Coffee%20Sales%20Dashboard.png
+
+# 2.Ecommerce:
+  https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Ecommerce.xlsx
+  Dasboard:https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Ecommerce%20Dashboard%20.png
+  
+
+By completing this projects, I have gained a deeper understanding of how Excel can be used for data cleaning and analyzing to give insights.
