@@ -20,6 +20,6 @@ Customer Segmentation (RFM): Analyzing customer purchasing behavior.
   https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Ecommerce.xlsx
   Dasboard:https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Ecommerce%20Dashboard%20.png
   
----
+
 Completing these projects has given me a deeper understanding of how Excel can be used to clean and analyze data to gain insights.
----
+
