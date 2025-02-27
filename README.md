@@ -1,4 +1,4 @@
-## **Ecommerce excel project**
+## **Ecommerce and Cofee Sales Excel Projects**
 ---
 ## **Projects Description**
 These two Excel projects involve analyzing the sales data of a Shoppr e-commerce store and coffee sales data to extract valuable insights and make business decisions. Find great insights such as customer purchasing behavior, product performance, and sales trends. The analysis includes visualizations and key metrics that help in decision-making, such as sales forecasting, customer segmentation, and inventory optimization.
