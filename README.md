@@ -10,7 +10,7 @@ Excel Functions: IF, SUMIF, VLOOKUP, HLOOKUP, XLOOKUP, INDEX-MATCH, Macros for a
 Pivot Tables: Summarizing sales, products, and customer data.
 Pivot Charts: Sales trends, top-performing products, and customer segments.
 Customer Segmentation (RFM): Analyzing customer purchasing behavior.
----
+
 # **Projects**
 # 1. Coffee Sales Project: 
   https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/coffeeOrdersData.xlsx
