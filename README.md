@@ -11,12 +11,12 @@ Pivot Tables: Summarizing sales, products, and customer data.
 Pivot Charts: Sales trends, top-performing products, and customer segments.
 Customer Segmentation (RFM): Analyzing customer purchasing behavior.
 
-# **Projects**
-# 1. Coffee Sales Project: 
+## **Projects**
+## **1. Coffee Sales Project:** 
   https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/coffeeOrdersData.xlsx
   Dashboard:https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Coffee%20Sales%20Dashboard.png
 
-# 2. Ecommerce Project:
+## **2. Ecommerce Project:**
   https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Ecommerce.xlsx
   Dasboard:https://github.com/VijaiAravind/Ecommerce-excel-project/blob/main/Ecommerce%20Dashboard%20.png
   
